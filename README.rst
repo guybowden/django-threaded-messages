@@ -1,5 +1,5 @@
 ===============
-Django-Threaded-Messages
+Django-Threaded-Messages // test
 ===============
 
 This app is very similar to the Messaging System on Facebook.
