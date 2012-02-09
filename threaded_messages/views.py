@@ -15,7 +15,7 @@ from django.template.loader import render_to_string
 from avatar.templatetags.avatar_tags import avatar_url
 from threaded_messages.models import *
 from threaded_messages.forms import ComposeForm, ReplyForm
-import simplejson
+import json as simplejson
 from threaded_messages.models import Thread
 import logging
 
